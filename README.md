@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with React [Live Demo](https://spices-condiment.netlify.app/).
+## Demo [Live Demo](https://spices-condiment.netlify.app/).
 
 ## Available Scripts
 
